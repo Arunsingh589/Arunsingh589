@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Singh</h1>
 <h2 align="center">A passionate Frontend Developer from India</h2>
-<video src="https://github.com/Arunsingh589/Arunsingh589/blob/98c9612f1635bb09e626e3103f634cb6d64853f3/gitgublogo.mp4" />
+<p><video src="https://github.com/Arunsingh589/Arunsingh589/blob/98c9612f1635bb09e626e3103f634cb6d64853f3/gitgublogo.mp4" /></p>
 
 💫 About Me:
 
