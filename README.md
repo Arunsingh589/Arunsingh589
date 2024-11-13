@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working on Online Resume Builder.<br>I'm interested in collaborating on React development projects.<br>I'm currently learning mongodb.<br>Ask me about javascript and react.<br>Fun fact - I think in code even when I’m asleep—dream debugging is real! 😴💻<br>
+💻 I'm Currently working on Online Resume Builder.<br>👬 I'm interested in collaborating on React development projects.<br>🌴 I'm currently learning mongodb.<br>📱 Ask me about javascript and react.<br>Fun fact - I think in code even when I’m asleep—dream debugging is real! 😴💻<br>
 
 
 ## 🌐 Socials:
