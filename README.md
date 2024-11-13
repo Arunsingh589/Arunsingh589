@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arun Singh</h1>
 <h2 align="center">A passionate Frontend Developer from India</h2>
-<p><video src="https://github.com/Arunsingh589/Arunsingh589/blob/98c9612f1635bb09e626e3103f634cb6d64853f3/gitgublogo.mp4" /></p>
+[![Video preview](https://via.placeholder.com/150)](https://github.com/Arunsingh589/Arunsingh589/blob/98c9612f1635bb09e626e3103f634cb6d64853f3/gitgublogo.mp4)>
 
 💫 About Me:
-
 <br>🔭 I'm Currently working on Online Resume Builder.<br>👬 I'm interested in collaborating on React development projects.<br>🔭 I'm currently learning MongoDB and Socket.io.<br>💬 Ask me about HTML, CSS, Javascript, TailwindCSS and React.<br>⚡ Fun fact - I think in code even when I’m asleep—dream debugging is real! 😴💻<br>📫 How to reach me:- as3945787@gmail.com <br>📄 My CV https://drive.google.com/file/d/1UuFm0BOxyZ8s1C4m01HnGGtA0nDke9Ml/view?usp=drivesdk
 
 
