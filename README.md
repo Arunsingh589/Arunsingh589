@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![A passionate Frontend Developer from India](https://github.com/user-attachments/assets/5ca521aa-1033-490c-878d-50183b7cf787)<br>🔭 I'm Currently working on Online Resume Builder.<br>👬 I'm interested in collaborating on React development projects.<br>🔭 I'm currently learning MongoDB and Socket.io.<br>💬 Ask me about HTML, CSS, Javascript, TailwindCSS and React.<br>⚡ Fun fact - I think in code even when I’m asleep—dream debugging is real! 😴💻<br>📫 How to reach me as3945787@gmail.com <br>📄 My CV https://drive.google.com/file/d/1UuFm0BOxyZ8s1C4m01HnGGtA0nDke9Ml/view?usp=drivesdk
+A passionate Frontend Developer from India ![Work](https://github.com/user-attachments/assets/5ca521aa-1033-490c-878d-50183b7cf787)<br>🔭 I'm Currently working on Online Resume Builder.<br>👬 I'm interested in collaborating on React development projects.<br>🔭 I'm currently learning MongoDB and Socket.io.<br>💬 Ask me about HTML, CSS, Javascript, TailwindCSS and React.<br>⚡ Fun fact - I think in code even when I’m asleep—dream debugging is real! 😴💻<br>📫 How to reach me as3945787@gmail.com <br>📄 My CV https://drive.google.com/file/d/1UuFm0BOxyZ8s1C4m01HnGGtA0nDke9Ml/view?usp=drivesdk
 
 
 ## 🌐 Socials:
